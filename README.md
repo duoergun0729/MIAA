@@ -1,7 +1,7 @@
 # MIAA
 code of "Improving Membership Inference Attack Robustness With Attention Against Adversarial Examples"
 
-Code modification based on "MemGuard: Defending against Black-Box Membership Inference Attacks via Adversarial Examples"[code](https://github.com/jjy1994/MemGuard)
+Code modification based on "MemGuard: Defending against Black-Box Membership Inference Attacks via Adversarial Examples" [code](https://github.com/jjy1994/MemGuard)
 
 Required python tool:
 
@@ -15,6 +15,10 @@ Required python tool:
 # Dataset description
 
 # Code usage
+
+    python main_run.py
+
+result saved at log/result.log
 
 # Citation
 If you use this code, please cite the following paper:
